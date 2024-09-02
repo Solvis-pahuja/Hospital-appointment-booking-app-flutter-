@@ -1,6 +1,4 @@
-Sure! Here's a sample README file for a hospital appointment booking app made with Flutter. Feel free to customize it according to your project's specifics.
 
----
 
 # Hospital Appointment Booking App
 
