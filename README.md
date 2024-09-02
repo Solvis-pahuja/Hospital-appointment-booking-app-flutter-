@@ -4,6 +4,9 @@
 
 A Flutter-based mobile application that allows users to book, manage, and view their hospital appointments efficiently. The app provides an intuitive interface for patients to schedule appointments with healthcare professionals, view appointment details, and receive notifications.
 
+## Login creds to test 
+- pahujasolvisofficial@gmail.com
+- Test@2024
 ## Features
 
 - **User Authentication**: Secure login and registration for patients.
