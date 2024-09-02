@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">169663283621</string>
+    <string name="google_api_key" translatable="false">AIzaSyArwySAYcvOy5vFDYHCOkY3K4uKNsR6w8Q</string>
+    <string name="google_app_id" translatable="false">1:169663283621:android:c27bd5254745b071b0e84c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArwySAYcvOy5vFDYHCOkY3K4uKNsR6w8Q</string>
+    <string name="google_storage_bucket" translatable="false">hospitalmanagementcollege.appspot.com</string>
+    <string name="project_id" translatable="false">hospitalmanagementcollege</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169663283621",
+    "project_id": "hospitalmanagementcollege",
+    "storage_bucket": "hospitalmanagementcollege.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169663283621:android:c27bd5254745b071b0e84c",
+        "android_client_info": {
+          "package_name": "com.example.hms_college"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwySAYcvOy5vFDYHCOkY3K4uKNsR6w8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
